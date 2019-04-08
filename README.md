@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+interesting article to read
+https://blog.angularindepth.com/use-ng-template-c72852c37fba
+https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/
+https://medium.freecodecamp.org/everything-you-need-to-know-about-ng-template-ng-content-ng-container-and-ngtemplateoutlet-4b7b51223691
+https://stackblitz.com/edit/angular-ng-container-conditional2?file=app%2Fapp.component.html
+https://medium.com/@tkssharma/understanding-viewchildren-viewchild-contentchildren-and-contentchild-b16c9e0358e

@@ -1,0 +1,14 @@
+<ul>
+
+    <li *ngFor='let item of data' (click)="onSelect($event,item)">
+    <ng-container
+        *ngTemplateOutlet="temp ; context:{item:this.item}" >        
+        </ng-container>
+    </li>
+  
+</ul>
+
+  <ng-container *ngTemplateOutlet="footer"></ng-container>
+
+<ng-content select=".drptop">
+</ng-content>
